@@ -1,0 +1,14 @@
+# Ignore the node_modules directory
+node_modules
+
+
+# Ignore Docker-related files
+Dockerfile
+.dockerignore
+
+# Ignore version control directories
+.git
+.gitignore
+
+
+

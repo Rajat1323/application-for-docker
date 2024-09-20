@@ -1,0 +1,17 @@
+# Ignore the node_modules directory
+node_modules
+
+# Ignore environment files
+.db-config
+
+# Ignore Docker-related files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Ignore version control directories
+.git
+.gitignore
+
+
+

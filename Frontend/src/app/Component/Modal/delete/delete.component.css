@@ -1,0 +1,31 @@
+/* Style the dialog container */
+.mat-dialog-container {
+  padding: 16px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.mat-dialog-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+
+.mat-dialog-actions {
+  justify-content: flex-end;
+  padding: 16px;
+}
+
+
+.mat-button {
+  margin: 8px;
+}
+
+.mat-button[mat-dialog-close]:hover {
+  background-color: #3e8e41;
+}
+
+.mat-button-delete:hover {
+  background-color: #e53935; 
+}
